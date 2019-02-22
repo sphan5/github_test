@@ -67,5 +67,6 @@ int main() {
   }
   printf("Hi");
   printf("\n My name esteban");
+  printf("I'm bored");
   return 0;
 }
